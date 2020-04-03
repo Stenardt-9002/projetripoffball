@@ -5,7 +5,7 @@ the follwing code base is taken from
 https://youtu.be/HHQV3ifJopo
 
 Moving Pong Game 
-#in Progress
+#Completed
  
 requirements 
 turtle module
